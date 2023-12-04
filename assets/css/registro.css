@@ -1,0 +1,19 @@
+
+
+.contenedor_registro{
+    margin-top: 6%;
+    width: 25%;
+}
+
+@media (max-width:1000px) {
+    .contenedor_registro{
+        margin-top: 25%;
+        width: 25%;
+    }
+}
+
+.table_container{
+    margin-top: 10%;
+    width: 100%;
+}
+
